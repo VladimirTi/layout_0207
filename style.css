@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+#main {
+  display: inline-flex;
+  margin: 10px;
+}
+
+.article {
+  width: 100px;
+  height: 200px;
+  background: grey;
+  margin: 10px; 
+}
